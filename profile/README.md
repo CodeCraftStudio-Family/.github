@@ -9,7 +9,6 @@ Welcome to Devarb! We are a dynamic IT company dedicated to delivering innovativ
   - [Product Development](#product-development)
   - [Outsourcing](#outsourcing)
   - [Traffic Management](#traffic-management)
-- [Our Products](#our-products)
 - [Why Choose Us](#why-choose-us)
 - [Contact Us](#contact-us)
 
