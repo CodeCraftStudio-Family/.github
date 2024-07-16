@@ -1,6 +1,6 @@
 # DevArb
 
-Welcome to Devarb! We are a dynamic IT company dedicated to delivering innovative solutions through the development of our own products, outsourcing services, and traffic management. Our expertise and passion drive us to exceed expectations and provide exceptional value to our clients.
+Welcome to DevArb! We are a dynamic IT company dedicated to delivering innovative solutions through the development of our own products, outsourcing services, and traffic management. Our expertise and passion drive us to exceed expectations and provide exceptional value to our clients.
 
 ## Table of Contents
 
